@@ -5,6 +5,14 @@ description: Domo event pages structure, search tips, and 2026 Connections Tour 
 
 ## Domo Connections Tour
 
+### Registration Links (ALWAYS include when posting about the tour)
+
+- **Main registration page:** https://www.domo.com/domo-connections-tour
+- **Individual city pages:** https://www.domo.com/events/connections-tour-[city]
+- **Domo Community post:** https://community-forums.domo.com/main/discussion/71243/major-meet-ups-domo-connections-tour-coming-to-10-cities
+
+> **Reminder:** Jae asked (Aug 2026) to always include the registration link when posting about Connections Tour events in Slack. Don't post event info without it.
+
 ### 2026 Dates (Complete — All 9 Cities Confirmed)
 
 Confirmed via individual city pages on the Domo webflow subdomain. The Domo blog confirmed it's a "9-stop tour" (Aug 2026 blog post by Joseph Rendeiro).
