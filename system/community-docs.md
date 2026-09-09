@@ -12,5 +12,6 @@ Also ingested into mdrag — query via `domo_rag_query` to find them.
 
 ## Gotchas
 
+- **File upload dataset recovery**: overwritten File Upload DataSets — recovery via Vault data versions (Dataset History API + Magic ETL Load from Vault), downstream DataFlow copies, or Domo Support; no self-serve restore endpoint → `knowledge-base/domo/gotchas/file-upload-dataset-recovery.md`
 - **Full page card**: how to make a card fill the full page — depends on page type (dashboard, Standard Page, Stories, Custom App) → `knowledge-base/domo/gotchas/full-page-card.md`
 - **User API v1 vs v3**: v1 uses `sendInvite`, v3 uses `sendNotification` — different param names for same feature → `knowledge-base/domo/gotchas/user-api-v1-vs-v3-params.md`
